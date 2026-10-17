@@ -1,0 +1,13 @@
+{
+  "name": "pocketops",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node runner.mjs",
+    "build": "node scripts/build-static.mjs",
+    "test": "node tests/runner.test.mjs && node tests/sandbox.test.mjs"
+  },
+  "dependencies": {
+    "qrcode-generator": "^1.4.4"
+  }
+}

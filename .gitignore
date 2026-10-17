@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.pocketops/
+.env
+.env.*
+site.tar.gz

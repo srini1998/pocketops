@@ -1,0 +1,6 @@
+
+> test
+> node tests/runner.test.mjs && node tests/sandbox.test.mjs
+
+Verified: pairing authentication, inspection, real failing tests, approved patch, passing tests, rejection, path boundaries, stale patch protection, and syntax checking.
+Browser sample tests fail before the reviewed fix and pass after approval.
