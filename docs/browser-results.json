@@ -1,0 +1,7 @@
+{
+  "verified_at": "2026-10-17T22:40:33.052Z",
+  "flow": "Browser sample repair proposed, reviewed, approved, arithmetic assertions passed",
+  "errors": [],
+  "mobile_overflow": false,
+  "scope": "Hosted browser sandbox. Actual Node runner separately integration-tested."
+}
