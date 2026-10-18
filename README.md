@@ -67,3 +67,7 @@ QR rendering uses qrcode-generator by Kazuhiko Arase, included under the MIT lic
 
 ## Engineering review
 See docs/review.md for corrected behavior, actual verification, scope and limitations.
+
+## Public browser sandbox
+
+https://pocketops-lab.vercel.app — inspect the sample files, review the pricing patch, approve it and run actual arithmetic checks in your browser. The browser task router is deterministic, not a trained general coding model. Real workspace actions use the downloadable local runner; optional Ollama routing stays local. The public host does not gain access to a visitor’s laptop. Existing owner-private Sites preview is unchanged.
